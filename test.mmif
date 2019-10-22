@@ -1,0 +1,14 @@
+{
+  "context": "mmif-prototype-0.0.1.jsonld",
+  "metadata": {},
+  "media": [
+    {
+      "id": "0",
+      "type": "image",
+      "location": "/Users/kelleylynch/PycharmProjects/app-pyRLSA/test.jpg",
+      "metadata": {}
+    }
+  ],
+  "contains": {},
+  "views": []
+}

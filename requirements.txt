@@ -1,0 +1,10 @@
+Flask==1.0.2
+Flask-DebugToolbar==0.10.1
+Flask-RESTful==0.3.7
+Flask-WTF==0.14.2
+imutils==0.5.2
+numpy==1.14.5
+opencv-python==3.4.5.20
+pythonRLSA==0.0.1
+
+git+https://github.com/clamsproject/clams-python-sdk.git@document-segmentation
